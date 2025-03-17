@@ -3,9 +3,9 @@ I will upload which topic I have learned
 ## Topics Covered :
 <ul>
   <li><a href="Array">Array</a></li>
-  <li><a href="Binary Search">Binary Search</a>/li>
-  <li>Design</li>
-  <li>Difference Array</li>
+  <li><a href="Binary Search">Binary Search</a></li>
+  <li> <a href="Design">Design</a> </li>
+  <li> <a href="Difference Array or Prefix Sum">Difference Array</a> </li>
   <li>Game Theory</li>
   <li>Greedy</li>
   <li>Recursion/Backtracking</li>
